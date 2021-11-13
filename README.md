@@ -14,4 +14,6 @@ pip install -r requirements.txt
 
 You can find our paper [here] (yet to be added).
 
-Authors [Prasanna Kumaran D](http://github.com/PrasannaKumaran), [Sideshwar J B](https://github.com/sidesh27), [Thenmozhi D]
+## Authors
+
+[Prasanna Kumaran D](http://github.com/PrasannaKumaran), [Sideshwar J B](https://github.com/sidesh27), Thenmozhi D
