@@ -16,4 +16,4 @@ You can find our paper [here] (yet to be added).
 
 ## Authors
 
-[Prasanna Kumaran D](http://github.com/PrasannaKumaran), [Sideshwar J B](https://github.com/sidesh27), Thenmozhi D
+[Prasannakumaran D](http://github.com/PrasannaKumaran), [Sideshwar J B](https://github.com/sidesh27), Thenmozhi D
