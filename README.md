@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ## Publication
 
-You can find our paper [here] (yet to be added).
+You can find our paper [here] (yet to be published).
 
 ## Authors
 
